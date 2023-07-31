@@ -1,0 +1,28 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./clase2/http.js",
+  "scripts": {
+    "start": "node clase2/http.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dver26/node-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dver26/node-course/issues"
+  },
+  "homepage": "https://github.com/dver26/node-course#readme",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
