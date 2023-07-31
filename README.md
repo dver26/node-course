@@ -1,5 +1,7 @@
 # Primera API
 
+La primera api que se crea en el curso con midu, solo sirve para entender los conceptos básicos, nada que no se pueda ver ya en mi github.
+
 ## Endpoints
 
 - '/' -> Ruta principal
