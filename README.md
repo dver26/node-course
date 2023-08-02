@@ -6,3 +6,4 @@ La primera api que se crea en el curso con midu, solo sirve para entender los co
 
 - '/' -> Ruta principal
 - '/contacto' -> Ruta que devuelve un contacto
+- '/imagen-super-bonita.png' -> Ruta que devuelve una imagen de One Piece
