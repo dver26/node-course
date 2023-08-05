@@ -15,3 +15,12 @@ La segunda API es un ejercicio que se conecta con la API PokeAPI.
 ## Endpoints
 
 - '/pokemon/ditto' -> devuelve toda la información de Ditto
+
+# Tercera API
+
+Esta tercera API será una REST API que va a trabajar con un archivo JSON de películas
+
+## Endpoints
+
+- '/' -> Devuelve un hola mundo
+- '/movies' -> Devuelve toda la información de las películas
